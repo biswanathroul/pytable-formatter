@@ -395,4 +395,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Credits
 
-Developed by Biswanath Roul (authorbiswanath@gmail.com)
+Developed by Biswanath Roul
