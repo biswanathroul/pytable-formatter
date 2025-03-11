@@ -54,7 +54,7 @@ Output:
 ├─────────────┼─────┼───────────────┤
 │ John Doe    │ 30  │ United States │
 │ Jane Smith  │ 25  │ Canada        │
-│ Alice Johnson │ 35  │ Australia    │
+│ Alice Johns │ 35  │ Australia     │
 └─────────────┴─────┴───────────────┘
 ```
 
@@ -77,7 +77,7 @@ Output:
 ├─────────────┼─────┼───────────────┤
 │ John Doe    │ 30  │ United States │
 │ Jane Smith  │ 25  │ Canada        │
-│ Alice Johnson │ 35  │ Australia    │
+│ Alice Johns │ 35  │ Australia     │
 └──────────────── 3 records found ────────────────────┘
 ```
 
